@@ -20,6 +20,6 @@ const Products = ({products, onAddToCart}) => {
             </Grid>
         </main>
     )
-} 
+}  
 
 export default Products;
